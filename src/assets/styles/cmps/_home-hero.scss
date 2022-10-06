@@ -1,0 +1,36 @@
+.home-hero-container {
+    background-color: $clr1;
+
+    .home-hero {
+        display: flex;
+        min-height: 450px;
+
+        .hero-title {
+            font-family: livvic-bold, sans-serif;
+            line-height: 100px;
+            font-size: rem(100px);
+            min-width: 635px;
+            margin-inline-end: 30px;
+            padding-inline-end: 55px;
+
+            .emphasized {
+                color: $clr3;
+            }
+        }
+
+        .paragraph-container {
+            font-size: rem(18px);
+            line-height: 28px;
+
+            .decoration {
+                background-color: $clr4;
+                height: 4px;
+                width: 50px;
+            }
+        }
+    }
+
+    .bg-img {
+        max-width: 358px;
+    }
+}
