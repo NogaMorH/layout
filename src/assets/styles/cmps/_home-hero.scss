@@ -6,7 +6,6 @@
         min-height: 450px;
 
         .hero-title {
-            font-family: livvic-bold, sans-serif;
             line-height: 100px;
             font-size: rem(100px);
             min-width: 635px;
@@ -24,8 +23,7 @@
 
             .decoration {
                 background-color: $clr4;
-                height: 4px;
-                width: 50px;
+                @include decoration;
             }
         }
     }

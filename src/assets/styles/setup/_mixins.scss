@@ -21,3 +21,8 @@
         @content;
     }
 }
+
+@mixin decoration {
+    height: 4px;
+    width: 50px;
+}

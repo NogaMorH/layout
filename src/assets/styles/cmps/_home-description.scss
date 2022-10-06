@@ -1,0 +1,8 @@
+.home-description {
+    background-color: $clr5;
+
+    .decoration {
+        background-color: $clr3;
+        @include decoration;
+    }
+}
