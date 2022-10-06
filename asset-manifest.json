@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/layout%20/static/css/main.e4ec7377.css",
-    "main.js": "/layout%20/static/js/main.8cf3d30a.js",
+    "main.css": "/layout%20/static/css/main.07ab672f.css",
+    "main.js": "/layout%20/static/js/main.89df6c96.js",
     "static/media/Livvic-MediumItalic.ttf": "/layout%20/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
     "static/media/Livvic-Bold.ttf": "/layout%20/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
     "static/media/Livvic-SemiBold.ttf": "/layout%20/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
     "static/media/logo.svg": "/layout%20/static/media/logo.9e687f65b84bdaad178f8a42a249e298.svg",
+    "static/media/bg-pattern-home-2.svg": "/layout%20/static/media/bg-pattern-home-2.889d5d8c448ed043a71bd7e91e884388.svg",
     "index.html": "/layout%20/index.html",
-    "main.e4ec7377.css.map": "/layout%20/static/css/main.e4ec7377.css.map",
-    "main.8cf3d30a.js.map": "/layout%20/static/js/main.8cf3d30a.js.map"
+    "main.07ab672f.css.map": "/layout%20/static/css/main.07ab672f.css.map",
+    "main.89df6c96.js.map": "/layout%20/static/js/main.89df6c96.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4ec7377.css",
-    "static/js/main.8cf3d30a.js"
+    "static/css/main.07ab672f.css",
+    "static/js/main.89df6c96.js"
   ]
 }
