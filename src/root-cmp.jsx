@@ -9,7 +9,7 @@ export class RootCmp extends React.Component {
     return (
       <div className="App">
         <Routes>
-          <Route key='/home' element={<Home />} path='/'></Route>
+          <Route key='/layout' element={<Home />} path='/'></Route>
         </Routes>
       </div>
     )
