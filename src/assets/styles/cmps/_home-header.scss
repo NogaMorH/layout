@@ -1,8 +1,27 @@
-.home-header {
+.home-header-container {
     background-color: $clr1;
 
-    .logo {
-        height: 40px;
-        width: 160px;
+    .home-header {
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 73px;
+
+        .header-main-content {
+            align-items: center;
+
+            .logo {
+                height: 40px;
+                width: 160px;
+                margin-inline-end: 80px;
+            }
+
+            .main-nav>*:not(:last-child) {
+                margin-inline-end: 40px;
+            }
+        }
+
+        .btn-round {
+            border: 2px solid $clr2;
+        }
     }
 }
