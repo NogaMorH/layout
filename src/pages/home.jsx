@@ -1,5 +1,11 @@
+import { HomeHeader } from "../cmps/home-header"
+import { HomeHero } from "../cmps/home-hero"
+
 export const Home = () => {
     return (
-        <h1>hi from home</h1>
+        <div className='home'>
+            <HomeHeader />
+            <HomeHero />
+        </div>
     )
 }
